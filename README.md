@@ -1,5 +1,9 @@
 ## About Ronald
 
+A geeky low-profile lone wolf, studies math at university, likes programming and longs for 1960s.
+
+MBTI (if their idea is to be trusted): INTJ/INTP
+
 ### Interests
 
 - Mathematics
@@ -10,7 +14,6 @@
 - Computer science
   - Algorithms
   - Complexity theory
-  - Programming languages
 
 ### Hobbies
 
