@@ -41,11 +41,11 @@
 
 ### Trivia
 
-- Animals (meat) I have eaten
-  - Chicken
-  - Beef (cow)
-  - Pork (pig), bacon
-  - Goat meat
-  - Buffalo meat
+- Animals (meat) I have eaten: chicken, duck, pork (pig), beef (cow), buffalo, goat
+- Other things I can do
+  - Swim (not over long distances though)
+  - Play chess, badminton and soccer
+  - Create a pencil art or digital art
+  - Teach math
 
 
