@@ -15,14 +15,19 @@
 ### Hobbies
 
 - Sports
-  - Tennis
+  - Tennis ("beginner")
 - Musical instruments
-  - Violin
-  - Guitar
+  - Violin ("beginner")
+  - Guitar ("beginner")
   - Mouth (can sing)
+- Programming
 
 ### Follows
 
+- Classics
+  - Russian: Fyodor Dostoevsky, Leo Tolstoy
+  - French: Marcel Proust
+  - American: Mark Twain, Joseph Heller
 - Sports
   - Football (soccer): Real Madrid
   - Cricket: CSK, Australia
@@ -31,13 +36,6 @@
   - 1960s: The Beatles, Elvis Presley, Bob Dylan
   - 1970s: Led Zeppelin, Queen
   - 2000s: Eminem
-
-### Reads
-
-- Classics
-  - Russian: Fyodor Dostoevsky
-  - French: Marcel Proust
-  - American: Mark Twain
 
 ### Trivia
 
