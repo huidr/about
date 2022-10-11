@@ -30,7 +30,7 @@ MBTI (if their idea is to be trusted): INTJ/INTP
 - Classics
   - Russian: Fyodor Dostoevsky, Leo Tolstoy
   - French: Marcel Proust
-  - American: Mark Twain, Joseph Heller
+  - English: Mark Twain, Joseph Heller
 - Sports
   - Football (soccer): Real Madrid
   - Cricket: CSK, Australia
@@ -39,6 +39,12 @@ MBTI (if their idea is to be trusted): INTJ/INTP
   - 1960s: The Beatles, Elvis Presley, Bob Dylan
   - 1970s: Led Zeppelin, Queen
   - 2000s: Eminem
+- Picture
+  - Movies: James Stewart, Jack Nicholson, Marlon Brando
+  - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball, Naruto
+- Philosophy
+- Poetry: T. S. Eliot
+
 
 ### Trivia
 
@@ -46,7 +52,7 @@ MBTI (if their idea is to be trusted): INTJ/INTP
 - Other things I can do
   - Swim (not over long distances though)
   - Play chess, badminton and soccer
-  - Create a pencil art or digital art
+  - Create a pencil art or digital art ("amateur")
   - Teach math
 
 
