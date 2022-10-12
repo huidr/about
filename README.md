@@ -7,13 +7,13 @@ MBTI (if their idea is to be trusted): INTJ/INTP
 ### Interests
 
 - Mathematics
-  - Category theory
+  - Category theory: foundational aspects and applications in programming
   - Differential geometry
 - Physics
   - General relativity
 - Computer science
   - Algorithms
-  - Complexity theory
+  - Theory of computation: automata theory, languages, computability, complexity
 
 ### Hobbies
 
@@ -22,7 +22,7 @@ MBTI (if their idea is to be trusted): INTJ/INTP
 - Musical instruments
   - Violin ("beginner")
   - Guitar ("beginner")
-  - Mouth (can sing)
+  - Mouth (can sing?)
 - Programming
 
 ### Follows
@@ -30,17 +30,18 @@ MBTI (if their idea is to be trusted): INTJ/INTP
 - Classics
   - Russian: Fyodor Dostoevsky, Leo Tolstoy
   - French: Marcel Proust
-  - English: Mark Twain, Joseph Heller
+  - English: Mark Twain
 - Sports
   - Football (soccer): Real Madrid
   - Cricket: CSK, Australia
   - Tennis: Rafael Nadal
 - Music
-  - 1960s: The Beatles, Elvis Presley, Bob Dylan
-  - 1970s: Led Zeppelin, Queen
+  - 1950s: Elvis Presley
+  - 1960s: The Beatles, Bob Dylan
+  - 1970s: Queen
   - 2000s: Eminem
 - Picture
-  - Movies: James Stewart, Jack Nicholson, Marlon Brando
+  - Movies: James Stewart, Jack Nicholson
   - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball, Naruto
 - Philosophy
 - Poetry: T. S. Eliot
