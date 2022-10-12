@@ -31,15 +31,8 @@ MBTI (if their idea is to be trusted): INTJ/INTP
   - Russian: Fyodor Dostoevsky, Leo Tolstoy
   - French: Marcel Proust
   - English: Mark Twain
-- Sports
-  - Football (soccer): Real Madrid
-  - Cricket: CSK, Australia
-  - Tennis: Rafael Nadal
-- Music
-  - 1950s: Elvis Presley
-  - 1960s: The Beatles, Bob Dylan
-  - 1970s: Queen
-  - 2000s: Eminem
+- Sports: football (soccer), cricket, tennis
+- Music: Elvis Presley, The Beatles, Bob Dylan, Eminem
 - Picture
   - Movies: James Stewart, Jack Nicholson
   - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball, Naruto
