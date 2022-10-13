@@ -9,7 +9,7 @@
   - General relativity
 - Computer science
   - Algorithms
-  - Theory of computation: automata theory, languages, computability, complexity
+  - Theory of computation: automata, languages, computability, complexity
 
 ### Hobbies
 
