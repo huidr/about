@@ -8,7 +8,6 @@
 - Physics
   - General relativity
 - Computer science
-  - Algorithms
   - Theory of computation: automata, languages, computability, complexity
 
 ### Hobbies
