@@ -26,15 +26,12 @@
 - Classics
   - Russian: Fyodor Dostoevsky, Leo Tolstoy
   - French: Marcel Proust
-  - English: Mark Twain
 - Sports: football (soccer), cricket, tennis
 - Music: Elvis Presley, The Beatles, Bob Dylan, Eminem
 - Picture
   - Movies: James Stewart, Jack Nicholson
   - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball, Naruto
 - Philosophy
-- Poetry: T. S. Eliot
-
 
 ### Trivia
 
