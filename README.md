@@ -35,6 +35,7 @@
 ### Trivia
 
 - Animals (meat) I have eaten: chicken, duck, pork (pig), beef (cow), buffalo, goat
+- Number of times I have flown in an airplane: 23 
 - Other things I can do
   - Swim (not over long distances though)
   - Play chess, badminton and soccer
