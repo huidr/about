@@ -12,12 +12,8 @@
 
 ### Hobbies
 
-- Sports
-  - Tennis ("beginner")
-- Musical instruments
-  - Violin ("beginner")
-  - Guitar ("beginner")
-  - Mouth (can sing?)
+- Sports: Tennis ("beginner")
+- Musical instruments: Violin ("beginner"), guitar ("beginner")
 - Video games: PC, mobile
 - Programming
 
