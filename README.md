@@ -18,6 +18,7 @@
   - Violin ("beginner")
   - Guitar ("beginner")
   - Mouth (can sing?)
+- Video games: PC, mobile
 - Programming
 
 ### Follows
