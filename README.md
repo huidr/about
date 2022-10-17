@@ -28,8 +28,8 @@
 - Sports: football (soccer), cricket, tennis
 - Music: Elvis Presley, The Beatles, Bob Dylan, Eminem
 - Picture
-  - Movies: James Stewart, Jack Nicholson
-  - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball, Naruto
+  - Movies: Sci-fi, romcom, drama
+  - Anime: Steins;Gate, Cowboy Bebop, Dragon Ball
 - Philosophy
 
 ### Trivia
