@@ -35,7 +35,6 @@
 - Number of times I have flown in an airplane: 24
 - Other things I can do
   - Swim (not over long distances though)
-  - Play chess, badminton and soccer
   - Create a pencil art or digital art ("amateur")
   - Teach math
 
