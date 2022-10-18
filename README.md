@@ -20,7 +20,7 @@
 ### Follows
 
 - Classics
-  - Russian: Fyodor Dostoevsky, Leo Tolstoy
+  - Russian: Fyodor Dostoevsky
   - French: Marcel Proust
 - Sports: football (soccer), cricket, tennis
 - Music: Elvis Presley, The Beatles, Bob Dylan, Eminem
