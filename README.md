@@ -1,14 +1,14 @@
 ## About Ronald
 
-### Interests
+### Fields
 
 - Mathematics
   - Category theory: foundational aspects and applications in programming
-  - Differential geometry
+  - Differential geometry: curves, surfaces, manifolds, Riemannian geometry
 - Physics
   - General relativity
 - Computer science
-  - Theory of computation: automata, languages, computability, complexity
+  - Theory of computation: automata theory, languages, computability theory, complexity theory
 
 ### Hobbies
 
