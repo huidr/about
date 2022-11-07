@@ -37,5 +37,5 @@
   - Swim (not over long distances though)
   - Create a pencil art or digital art ("amateur")
   - Teach math
-
+- Descriptions: atheist, idealist, nonconformist, lone wolf
 
