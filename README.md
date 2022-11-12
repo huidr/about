@@ -13,7 +13,7 @@
 ### Hobbies
 
 - Sports: Tennis ("beginner")
-- Musical instruments: Violin ("beginner"), guitar ("beginner")
+- Musical instruments: Violin ("beginner")
 - Video games: PC, mobile
 - Programming
 
@@ -39,5 +39,3 @@
   - Teach math
 - Descriptions: atheist, idealist, nonconformist, lone wolf
 - Physique: height: 5'10", weight: 74 kg.
-
-
