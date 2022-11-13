@@ -39,3 +39,6 @@
   - Teach math
 - Descriptions: atheist, idealist, nonconformist, lone wolf
 - Physique: height: 5'10", weight: 74 kg.
+
+I am open to volunteering and community service.
+
