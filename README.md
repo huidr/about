@@ -31,7 +31,7 @@
 
 ### Hobbies
 
-- Sports: Tennis ("beginner")
+- Writing articles and essays
 - Musical instruments: Violin ("beginner")
 - Video games: PC, mobile
 - Programming
