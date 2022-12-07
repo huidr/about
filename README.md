@@ -57,7 +57,7 @@
   - Create a pencil art or digital art ("amateur")
   - Teach math
 - Descriptions: atheist, idealist, nonconformist, lone wolf
-- Physique: height: 5'10", weight: 73 kg.
+- Physique: height: 5'10", weight: 68 kg.
 
 I am open to volunteering and community service.
 
