@@ -39,7 +39,7 @@
 
 - Classics: Fyodor Dostoevsky
 - Sports: football (soccer), cricket, tennis
-- Music: Elvis Presley, The Beatles, Bob Dylan, Eminem
+- Music, [anime](https://myanimelist.net/animelist/IvanBrando)
 - Philosophy
 
 #### Some trivia
@@ -50,6 +50,4 @@
   - Swim (not over long distances though)
   - Create a pencil art or digital art ("amateur")
 - Descriptions: atheist, idealist, nonconformist, lone wolf
-- Physique: height: 5'10", weight: 68 kg.
-
-I am open to volunteering and community service.
+- Physique: height: 5'10", weight: 70 kg.
