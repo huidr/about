@@ -27,6 +27,6 @@
 - Number of times I have flown in an airplane: 26
 - Other things I can do
   - Swim (not over long distances though)
-  - Create a pencil art or digital art ("amateur")
+  - Create a pencil art or digital art ("beginner")
 - Descriptions: atheist, idealist, nonconformist, lone wolf
-- Physique: height: 5'10", weight: 70 kg.
+- Physique: height: 5'10", weight: 71 kg.
