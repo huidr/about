@@ -5,8 +5,6 @@
 - Mathematics
   - Category theory: foundational aspects
   - Differential geometry: curves, surfaces, manifolds, Riemannian geometry
-- Physics
-  - General relativity
 - Computer science
   - Theory of computation: automata theory, languages, computability theory, complexity theory
 
@@ -19,7 +17,7 @@
 #### Follows
 
 - Classics: Fyodor Dostoevsky
-- Sports: football (soccer), cricket, tennis
+- Sports: football (soccer), cricket
 - Music, [anime](https://myanimelist.net/animelist/IvanBrando)
 - Philosophy
 
